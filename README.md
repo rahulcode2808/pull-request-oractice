@@ -1,2 +1,2 @@
 # pull-request-oractice
-Repository for practicing pull requests
+This repository is for practicing the GitHub pull request workflow."
